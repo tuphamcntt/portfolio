@@ -1,5 +1,5 @@
 const main = {
-  name: 'FFFFFFame',
+  name: 'zxcxzczxc',
   mail: 'your.mail@gmail.com',
   img: 'https://organicthemes.com/demo/profile/files/2018/05/profile-pic.jpg',
   role: ['Full Stack Developer'],
