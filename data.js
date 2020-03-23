@@ -1,5 +1,5 @@
 const main = {
-  name: 'Your Name',
+  name: 'FFFFFFame',
   mail: 'your.mail@gmail.com',
   img: 'https://photos.app.goo.gl/2WVccoXBwihYZ2nh8',
   role: ['Full Stack Developer'],
