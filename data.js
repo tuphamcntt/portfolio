@@ -8,37 +8,37 @@ const main = {
     {
       name: 'Home',
       iconName: 'logo-firefox',
-      link: 'https://sivanesh-s.github.io'
+      link: 'https://tuphamcntt.github.io/portfolio/'
     },
     {
       name: 'Github',
       iconName: 'logo-github',
-      link: 'https://github.com/sivanesh-s'
+      link: 'https://github.com/tuphamcntt/'
     },
     {
       name: 'Linkedin',
       iconName: 'logo-linkedin',
-      link: 'https://www.linkedin.com/in/sivanesh-shanmugam/'
+      link: 'https://www.linkedin.com/in/tuphamcntt/'
     },
     {
       name: 'StackOverflow',
       iconName: 'logo-stackoverflow',
-      link: 'https://stackoverflow.com/users/6940525/sivanesh-s'
+      link: 'https://stackoverflow.com/'
     },
     {
       name: 'Twitter',
       iconName: 'logo-twitter',
-      link: 'https://twitter.com/sivanesh_fiz'
+      link: 'https://twitter.com/tuphamcntt/'
     },
     {
       name: 'npm',
       iconName: 'logo-npm',
-      link: 'https://www.npmjs.com/~sivanesh_s'
+      link: 'https://www.npmjs.com/'
     },
     {
       name: 'Mail',
       iconName: 'mail-outline',
-      link: `mailto:${'yourmail@gmail.com'}?Subject=Hello%20again`
+      link: `mailto:${'tuphamcntt@gmail.com'}?Subject=Hello%20again`
     }
   ],
   links: [
