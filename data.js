@@ -1,7 +1,7 @@
 const main = {
   name: 'Pham Minh Tu',
   mail: 'tuphamcntt@gmail.com',
-  img: 'https://photos.app.goo.gl/xcxe9k7Ks7tondxU7',
+  img: 'https://pmt-storage.s3.amazonaws.com/21__1_-removebg-preview.png',
   role: ['Full Stack Developer'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
